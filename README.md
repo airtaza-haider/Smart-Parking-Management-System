@@ -1,58 +1,57 @@
-# Smart-Parking-Management-System
-A Smart Parking Management System built with PHP and MySQL that streamlines vehicle parking operations. Features include user, vehicle, complaint registration, real-time slot availability,  payments, reservation management, and admin control for efficient parking lot management.
+# 🚗 Smart Parking Management System
+
+A Smart Parking Management System built with **PHP** and **MySQL** that streamlines vehicle parking operations. Features include user and vehicle registration, complaint handling, real-time slot availability, payments, reservation management, and admin control — for efficient parking lot management.
+
+
 
 ## 🛠️ Tech Stack
 
-| Layer        | Technology             |
-|--------------|------------------------|
-| Backend      | PHP, MySQL             |
-| Frontend     | HTML, CSS              |
-| Server       | Apache (XAMPP)         |
-| Database     | MySQL                  |
+| Layer    | Technology     |
+|----------|----------------|
+| Backend  | PHP, MySQL     |
+| Frontend | HTML, CSS      |
+| Server   | Apache (XAMPP) |
+| Database | MySQL          |
 
-###🌟 Features
 
-**🔹 User Management
-**
-✅ Add new users
-✏️ Update user profiles
-❌ Delete users
-👀 View all users
 
-**🚘 Vehicle Management
-**
-🆕 Register new vehicles
-✏️ Update vehicle details
-❌ Remove vehicles
-👀 View all registered vehicles
+## 🌟 Features
 
-**🅿️ Parking Slot Management
-**
-➕ Add parking slots
-✏️ Modify slot details
-❌ Deactivate slots
-👀 View slot availability
+### 🔹 User Management
+- ✅ **Add new users**
+- ✏️ **Update user profiles**
+- ❌ **Delete users**
+- 👀 **View all users**
 
-**📅 Reservation Management
-**
-🗓️ Create new reservations
-✏️ Update reservation times
-❌ Cancel reservations
-📊 View all reservations
+### 🚘 Vehicle Management
+- 🆕 **Register new vehicles**
+- ✏️ **Update vehicle details**
+- ❌ **Remove vehicles**
+- 👀 **View all registered vehicles**
 
-**💰 Payment Processing
-**
-💳 Record payments
-✏️ Update payment status
-❌ Delete Payments from database
-📈 View payment history
+### 🅿️ Parking Slot Management
+- ➕ **Add parking slots**
+- ✏️ **Modify slot details**
+- ❌ **Deactivate slots**
+- 👀 **View slot availability**
 
-**📢 Complaint Management
-**
-✍️ Submit complaints
-✏️ Update complaint status
-❌ Delete Complaints from database
-👀 View all complaints
+### 📅 Reservation Management
+- 🗓️ **Create new reservations**
+- ✏️ **Update reservation times**
+- ❌ **Cancel reservations**
+- 📊 **View all reservations**
+
+### 💰 Payment Processing
+- 💳 **Record payments**
+- ✏️ **Update payment status**
+- ❌ **Delete payments from database**
+- 📈 **View payment history**
+
+### 📢 Complaint Management
+- ✍️ **Submit complaints**
+- ✏️ **Update complaint status**
+- ❌ **Delete complaints from database**
+- 👀 **View all complaints**
 
 ---
 
@@ -62,3 +61,7 @@ Contributions, suggestions, and improvements are welcome!
 Feel free to fork the project and submit a pull request.
 
 ---
+
+
+Made with ❤️ by [Airtaza Haider](https://github.com/airtaza-haider)  
+
